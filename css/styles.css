@@ -1,6 +1,7 @@
 .sidebar {
-  float: right;
-  background-color: fuchsia;
+  width: 30%;
+  float: left;
+  background-color: yellow;
 }
 
 img {
